@@ -7,4 +7,4 @@
 4. User can create rooms to let others to join in.
 
 ## [Video link](https://www.youtube.com/shorts/VSJ1Jrz5kq0) for demo
-## [Video link](https://github.com/hitenvats16/Tracko-parent)
+## [Tracko Parent](https://github.com/hitenvats16/Tracko-parent)
